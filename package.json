@@ -1,0 +1,11 @@
+{
+  "name": "mysourcecode",
+  "version": "1.0.0",
+  "description": "source code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hzzhangdianpeng",
+  "license": "ISC"
+}
